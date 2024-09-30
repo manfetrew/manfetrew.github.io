@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://manfetrew.github.io/sitemap.html.gz
+Sitemap: https://manfetrew.github.io/app/sitemap.html.gz
+Sitemap: https://manfetrew.github.io/assets/sitemap.html.gz
+Sitemap: https://manfetrew.github.io/css/sitemap.html.gz
+Sitemap: https://manfetrew.github.io/data/sitemap.html.gz
+Sitemap: https://manfetrew.github.io/includes/sitemap.html.gz
+Sitemap: https://manfetrew.github.io/item/sitemap.html.gz
+Sitemap: https://manfetrew.github.io/src/sitemap.html.gz
